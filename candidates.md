@@ -27,3 +27,6 @@ Judge criteria (most important first): 1) funny + ≤200 chars; 2) real surprise
 
 ## Winner
 #6. Revision plan (gate requires a 2nd write): v1 uses "arrived like"; v2 tightens the verb to "reads like" — a report reads, it doesn't arrive, and it saves nothing while sounding more natural aloud.
+
+## Quick Smart review (2026-11-24) — rewrite A adopted
+Quick Smart review recommended replacing the original line with rewrite A — "My phone's screen time report is a performance review from the coworker I spent all week slacking off with." (107 characters, one sentence) — over the original, for criteria 2 (a real surprise at the end: the reviewer turns out to be the coworker who slacked off with you all week) and 5 (freshness: the "manager" framing was a familiar trope). Adopted verbatim in main.ts, README.md, and /output/entry.txt.

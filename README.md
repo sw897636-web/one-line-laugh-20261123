@@ -8,7 +8,7 @@ An entry for the [make.fun bounty](https://make.fun/bounty/u-ronigrv-the-one-lin
 
 ## The entry
 
-> My phone's screen time report reads like a performance review from a manager who watched me do nothing all week.
+> My phone's screen time report is a performance review from the coworker I spent all week slacking off with.
 
 ## Run
 
@@ -16,8 +16,8 @@ An entry for the [make.fun bounty](https://make.fun/bounty/u-ronigrv-the-one-lin
 node main.ts
 ```
 
-Writes the line to `/output/entry.txt` (112 characters, one sentence, no trailing newline). Node 22, no network, deterministic — two runs produce byte-identical output.
+Writes the line to `/output/entry.txt` (107 characters, one sentence, no trailing newline). Node 22, no network, deterministic — two runs produce byte-identical output.
 
 ## Why this line
 
-Seven candidates were drafted and scored against the judge's brief (funny within 200 chars; a real surprise at the end that still makes sense; an everyday truth people recognise; economy of words; freshness). The winner leans on a truth everyone knows — the weekly screen-time report nobody looks forward to — and lands its surprise on the very last words: the "manager" in the performance review watched you do nothing all week. See `candidates.md` for the full shortlist and scoring.
+Seven candidates were drafted and scored against the judge's brief (funny within 200 chars; a real surprise at the end that still makes sense; an everyday truth people recognise; economy of words; freshness). The winner leans on a truth everyone knows — the weekly screen-time report nobody looks forward to — and lands its surprise on the very last words: the coworker handing you the performance review spent all week slacking off with you. See `candidates.md` for the full shortlist and scoring.
